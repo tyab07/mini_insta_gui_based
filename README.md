@@ -34,7 +34,6 @@ The project is structured for modularity and performance:
 ### Prerequisites
 
 - **CMake** (3.10+)
-- **GCC/Clang** or **MSVC**
 - **GLFW3**, **OpenGL**, and **SQLite3** libraries
 
 ### Build Instructions
